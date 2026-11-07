@@ -1,0 +1,13 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Node & Build artifacts (if ever used)
+node_modules/
+dist/
+build/
+.hallmark/
+
+# Environment
+.env
+.env.local
